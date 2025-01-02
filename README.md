@@ -1,5 +1,5 @@
 # Digital Clock
-[Test code here !](https://tanishqa11.github.io/BMI_Calculator/)
+[Test code here !](https://tanishqa11.github.io/Digital_Clock/)
 
 A simple digital clock that displays the current time dynamically using JavaScript. The clock updates every second and can be styled with CSS for a sleek and customizable look.
 
